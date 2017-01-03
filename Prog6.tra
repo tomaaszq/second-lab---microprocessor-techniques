@@ -1,0 +1,22 @@
+*** Creating Trace Output File '.\Output\Prog6.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\startup_lpc11xx.o"'
+### List of Objects: adding '".\output\system_lpc11xx.o"'
+### List of Objects: adding '".\output\6_main_uzupelnic.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\output\startup_lpc11xx.o" ".\output\system_lpc11xx.o" ".\output\6_main_uzupelnic.o" 
+--strict --scatter ".\Output\Prog6.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listing\Prog6.map" -o .\Output\Prog6.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Output\Prog6.axf'
+### ADS-LD Command File: '.\Output\Prog6.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Output\Prog6.lnp', Handle=0x00000494
+### Writing '.lnp' file
+### ADS-LD Command file '.\Output\Prog6.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

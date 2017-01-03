@@ -1,0 +1,17 @@
+Dependencies for Project 'Prog6', Target 'Lab6 ': (DO NOT MODIFY !)
+F (.\Device\startup_LPC11xx.s)(0x554637AE)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx --list ".\Listing\startup_LPC11xx.lst" --xref -o ".\Output\startup_LPC11xx.o" --depend ".\Output\startup_LPC11xx.d")
+F (.\Device\system_LPC11xx.c)(0x5753399E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx -o ".\Output\system_lpc11xx.o" --omf_browse ".\Output\system_lpc11xx.crf" --depend ".\Output\system_lpc11xx.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9B5B0)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h)(0x5087A02A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x5087A1CE)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h)(0x5087A02A)
+F (.\Source\6_main_uzupelnic.c)(0x583D6670)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx -o ".\Output\6_main_uzupelnic.o" --omf_browse ".\Output\6_main_uzupelnic.crf" --depend ".\Output\6_main_uzupelnic.d")
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h)(0x5087A02A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x5087A1CE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9B5B0)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x5087A1CE)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h)(0x5087A02A)
+F (.\6_Abstract.txt)(0x57533DE8)()

@@ -1,0 +1,5 @@
+-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\NXP\LPC11xx 
+-o ".\Output\6_main_uzupelnic.o" --omf_browse ".\Output\6_main_uzupelnic.crf" --depend ".\Output\6_main_uzupelnic.d" "Source\6_main_uzupelnic.c"
